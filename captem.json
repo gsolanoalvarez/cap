@@ -15,5 +15,37 @@
                 }
             ]
         }
+        "temporadas": [
+        {
+            "numero": 2,
+            "capitulos": [
+                {
+                    "numero": 1,
+                    "titulo": "El comienzo",
+                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
+                },
+                {
+                    "numero": 2,
+                    "titulo": "El primer golpe",
+                    "descripcion": "Ippo tiene su primera pelea de práctica."
+                }
+            ]
+        }
+            "temporadas": [
+        {
+            "numero": 3,
+            "capitulos": [
+                {
+                    "numero": 1,
+                    "titulo": "El comienzo",
+                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
+                },
+                {
+                    "numero": 2,
+                    "titulo": "El primer golpe",
+                    "descripcion": "Ippo tiene su primera pelea de práctica."
+                }
+            ]
+        }
     ]
 }
