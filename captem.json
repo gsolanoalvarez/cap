@@ -1,15 +1,21 @@
 {
-  "temporada": 1,
-  "capitulos": [
-    {
-      "numero": 1,
-      "titulo": "El Comienzo",
-      "descripcion": "Ippo descubre su pasión por la lucha."
-    },
-    {
-      "numero": 2,
-      "titulo": "Primeras Victorias",
-      "descripcion": "Ippo gana su primer combate."
-    }
-  ]
+    "temporadas": [
+        {
+            "numero": 1,
+            "capitulos": [
+                {
+                    "numero": 1,
+                    "titulo": "El comienzo",
+                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
+                },
+                {
+                    "numero": 2,
+                    "titulo": "El primer golpe",
+                    "descripcion": "Ippo tiene su primera pelea de práctica."
+                }
+                // Más capítulos...
+            ]
+        }
+        // Otras temporadas...
+    ]
 }
