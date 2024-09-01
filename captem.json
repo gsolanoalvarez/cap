@@ -1,51 +1,73 @@
 {
-    "temporadas": [
+  "temporadas": [
+    {
+      "temporada": 1,
+      "capitulos": [
         {
-            "numero": 1,
-            "capitulos": [
-                {
-                    "numero": 1,
-                    "titulo": "El comienzo",
-                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
-                },
-                {
-                    "numero": 2,
-                    "titulo": "El primer golpe",
-                    "descripcion": "Ippo tiene su primera pelea de práctica."
-                }
-            ]
-        }
-        "temporadas": [
+          "numero": 1,
+          "titulo": "El primer paso",
+          "imagen": "https://example.com/imagen1.jpg",
+          "descripcion": "Ippo descubre el mundo del boxeo y toma su primer paso hacia el ring."
+        },
         {
-            "numero": 2,
-            "capitulos": [
-                {
-                    "numero": 1,
-                    "titulo": "El comienzo",
-                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
-                },
-                {
-                    "numero": 2,
-                    "titulo": "El primer golpe",
-                    "descripcion": "Ippo tiene su primera pelea de práctica."
-                }
-            ]
-        }
-            "temporadas": [
+          "numero": 2,
+          "titulo": "El nacimiento de un boxeador",
+          "imagen": "https://example.com/imagen2.jpg",
+          "descripcion": "Ippo comienza su entrenamiento bajo la supervisión del entrenador Kamogawa."
+        },
         {
-            "numero": 3,
-            "capitulos": [
-                {
-                    "numero": 1,
-                    "titulo": "El comienzo",
-                    "descripcion": "Ippo comienza su entrenamiento de boxeo."
-                },
-                {
-                    "numero": 2,
-                    "titulo": "El primer golpe",
-                    "descripcion": "Ippo tiene su primera pelea de práctica."
-                }
-            ]
+          "numero": 3,
+          "titulo": "El primer desafío",
+          "imagen": "https://example.com/imagen3.jpg",
+          "descripcion": "Ippo enfrenta su primera gran prueba en el ring."
         }
-    ]
-
+      ]
+    },
+    {
+      "temporada": 2,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El rival más fuerte",
+          "imagen": "https://example.com/imagen4.jpg",
+          "descripcion": "Ippo enfrenta a un oponente con habilidades superiores en el ring."
+        },
+        {
+          "numero": 2,
+          "titulo": "El espíritu de lucha",
+          "imagen": "https://example.com/imagen5.jpg",
+          "descripcion": "Ippo descubre la verdadera fuerza de su espíritu competitivo."
+        },
+        {
+          "numero": 3,
+          "titulo": "El desafío continúa",
+          "imagen": "https://example.com/imagen6.jpg",
+          "descripcion": "Ippo se prepara para su siguiente gran pelea, enfrentando nuevos desafíos."
+        }
+      ]
+    },
+    {
+      "temporada": 3,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El regreso al ring",
+          "imagen": "https://example.com/imagen7.jpg",
+          "descripcion": "Después de una pausa, Ippo regresa al ring con más determinación que nunca."
+        },
+        {
+          "numero": 2,
+          "titulo": "La batalla decisiva",
+          "imagen": "https://example.com/imagen8.jpg",
+          "descripcion": "Ippo se enfrenta a su oponente más duro en una batalla que decidirá su futuro."
+        },
+        {
+          "numero": 3,
+          "titulo": "El final de un sueño",
+          "imagen": "https://example.com/imagen9.jpg",
+          "descripcion": "Ippo reflexiona sobre su viaje en el boxeo y lo que el futuro le depara."
+        }
+      ]
+    }
+  ]
+}
